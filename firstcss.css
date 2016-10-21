@@ -1,0 +1,19 @@
+body{
+background: gray;
+}
+
+.pcolor, #pcolor{
+	color:#FF0000;
+	font-weight:bold;
+	font-style:italic;
+	padding:4em 3em 5em 4em;
+	margin:4em 3em 5em 4em;
+}
+
+#ppcolor{
+	color:#FF00FF;
+}
+
+div:first-child{
+	color:#00FFFF;
+}
